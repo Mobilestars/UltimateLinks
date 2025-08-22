@@ -1,0 +1,4 @@
+name: betterlinks
+version: '1.0.0'
+main: de.scholle.betterlinks.Betterlinks
+api-version: '1.21'
