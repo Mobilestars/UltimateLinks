@@ -1,0 +1,14 @@
+{
+  "no-permission": "&cKeine Berechtigung.",
+  "reloaded": "&aConfig neu geladen und Commands aktualisiert!",
+  "link-added": "&aLink hinzugefügt: /{name} -> {link}",
+  "link-removed": "&aLink /{name} entfernt!",
+  "link-not-found": "&cKein Link mit dem Namen '{name}' gefunden.",
+  "usage-add": "&cBenutzung: /ultimatelinks add <name> <link> [prefix]",
+  "usage-remove": "&cBenutzung: /ultimatelinks remove <name>",
+  "help": [
+    "&e/ultimatelinks reload &7- Config neu laden",
+    "&e/ultimatelinks add <name> <link> [prefix] &7- Neuen Link hinzufügen",
+    "&e/ultimatelinks remove <name> &7- Entfernt einen Link"
+  ]
+}

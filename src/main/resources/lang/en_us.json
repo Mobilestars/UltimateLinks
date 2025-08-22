@@ -1,0 +1,14 @@
+{
+  "no-permission": "&cNo permission.",
+  "reloaded": "&aConfig reloaded and commands updated!",
+  "link-added": "&aLink added: /{name} -> {link}",
+  "link-removed": "&aLink /{name} removed!",
+  "link-not-found": "&cNo link with the name '{name}' found.",
+  "usage-add": "&cUsage: /ultimatelinks add <name> <link> [prefix]",
+  "usage-remove": "&cUsage: /ultimatelinks remove <name>",
+  "help": [
+    "&e/ultimatelinks reload &7- Reload config",
+    "&e/ultimatelinks add <name> <link> [prefix] &7- Add a new link",
+    "&e/ultimatelinks remove <name> &7- Remove a link"
+  ]
+}

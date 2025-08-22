@@ -1,4 +1,18 @@
-name: betterlinks
+name: UltimateLinks
 version: '1.0.0'
-main: de.scholle.betterlinks.Betterlinks
+main: de.scholle.ultimatelinks.UltimateLinks
 api-version: '1.21'
+
+commands:
+  ultimatelinks:
+    description: Verwaltung für UltimateLinks
+    usage: /ultimatelinks <reload|add|remove>
+    aliases: [ul]
+
+permissions:
+  ultimatelinks.use:
+    description: Erlaubt die Nutzung aller Link-Commands
+    default: true
+  ultimatelinks.op:
+    description: Erlaubt Admins das Verwalten der Links
+    default: op

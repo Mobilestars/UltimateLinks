@@ -1,1 +1,7 @@
+prefix:
+  enabled: true
+  default: "&aLink: &f"
+
+# Beispiel-Links
 dc: "https://discord.gg/deinserver"
+dc-prefix: "&bUnser Discord: &f"
